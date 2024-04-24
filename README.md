@@ -46,4 +46,4 @@ php artisan serve
 2. ### Access the application in your browser:
    By default, the development server will be running on http://localhost:8000. You might need to log in to the administration panel using a predefined account (credentials to be set up in the users table or through a seeder).
 
-  # This project is intended to serve as an example for future development and use. Created by Gigabyets.
+  _This project is intended to serve as an example for future development and use. Created by Gigabyets [fast work](https://fastwork.co/user/jkcnkhaq)_
